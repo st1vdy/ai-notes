@@ -2,7 +2,7 @@
 
 [paper](https://arxiv.org/abs/1901.08043)
 
-[本文前置](../CornerNet/cornernet.md)
+[本文前置CornerNet](../CornerNet/cornernet.md)
 
 ## 摘要翻译（GPT）
 
